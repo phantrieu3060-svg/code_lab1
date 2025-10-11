@@ -1,0 +1,7 @@
+D:\BAI_TAP\LAP_TRINH_TRUC_QUAN\TH_Lab1\Bai05\bin\Debug\Bai05.exe.config
+D:\BAI_TAP\LAP_TRINH_TRUC_QUAN\TH_Lab1\Bai05\bin\Debug\Bai05.exe
+D:\BAI_TAP\LAP_TRINH_TRUC_QUAN\TH_Lab1\Bai05\bin\Debug\Bai05.pdb
+D:\BAI_TAP\LAP_TRINH_TRUC_QUAN\TH_Lab1\Bai05\obj\Debug\Bai05.csproj.AssemblyReference.cache
+D:\BAI_TAP\LAP_TRINH_TRUC_QUAN\TH_Lab1\Bai05\obj\Debug\Bai05.csproj.CoreCompileInputs.cache
+D:\BAI_TAP\LAP_TRINH_TRUC_QUAN\TH_Lab1\Bai05\obj\Debug\Bai05.exe
+D:\BAI_TAP\LAP_TRINH_TRUC_QUAN\TH_Lab1\Bai05\obj\Debug\Bai05.pdb
