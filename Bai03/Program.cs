@@ -11,7 +11,7 @@ namespace Bai03
         static void Main(string[] args)
         {
             Console.OutputEncoding = Encoding.UTF8;
-            // Nhập vào lần lượt ngày, tháng, năm
+            // Nhập vào lần lượt ngày, tháng năm
             int day = Nhap("Nhập ngày: ");
             int month = Nhap("Nhập tháng: ");
             int year = Nhap("Nhập năm: ");
@@ -28,7 +28,7 @@ namespace Bai03
             do
             {
                 Console.Write(message);
-            } while (!int.TryParse(Console.ReadLine(), out n));
+            } while (!int.TryParse(Console.ReadLine(), out n) || n <= 0);
             return n;
         }
         // Kiểm tra năm nhuận
@@ -67,4 +67,3 @@ namespace Bai03
         }
     }
 }
-

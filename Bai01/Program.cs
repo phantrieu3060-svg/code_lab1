@@ -14,8 +14,7 @@ namespace Bai01
             Console.OutputEncoding = Encoding.UTF8;
             int n;
             // Nhập số nguyên dương n
-            Console.Write("Nhập số phần tử của mảng: ");
-            n = int.Parse(Console.ReadLine());
+            n = Input();
             int[] arr = CreateRandomArray(n);
             int choice;
             // In menu
@@ -57,6 +56,15 @@ namespace Bai01
 
                 }
             } while (choice != 0);
+        }
+        static int Input()
+        {
+            int n;
+            do
+            {
+                Console.Write("Nhập số phần tử của mảng (n>0): ");
+            } while (!int.TryParse(Console.ReadLine(), out n) || n <= 0);
+            return n;
         }
         //Tạo mảng ngẫu nhiên
         static int[] CreateRandomArray(int n)
@@ -122,4 +130,3 @@ namespace Bai01
         }
     }
 }
-

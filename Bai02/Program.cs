@@ -22,7 +22,7 @@ namespace Bai02
             do
             {
                 Console.Write("Nhập số nguyên dương n (n>0): ");
-            } while (!int.TryParse(Console.ReadLine(), out n) || n < 0);
+            } while (!int.TryParse(Console.ReadLine(), out n) || n <= 0);
             return n;
         }
         // Kiểm tra số nguyên tố
@@ -43,4 +43,3 @@ namespace Bai02
         }
     }
 }
-

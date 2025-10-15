@@ -5,3 +5,4 @@ D:\BAI_TAP\LAP_TRINH_TRUC_QUAN\TH_Lab1\Bai02\obj\Debug\Bai02.csproj.AssemblyRefe
 D:\BAI_TAP\LAP_TRINH_TRUC_QUAN\TH_Lab1\Bai02\obj\Debug\Bai02.csproj.CoreCompileInputs.cache
 D:\BAI_TAP\LAP_TRINH_TRUC_QUAN\TH_Lab1\Bai02\obj\Debug\Bai02.exe
 D:\BAI_TAP\LAP_TRINH_TRUC_QUAN\TH_Lab1\Bai02\obj\Debug\Bai02.pdb
+D:\BAI_TAP\LAP_TRINH_TRUC_QUAN\TH_Lab1\Bai02\obj\Debug\Bai02.exe.config
